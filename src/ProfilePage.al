@@ -55,6 +55,7 @@ page 50028 "Exim Rolecenter"
                     ToolTip = 'Specifies the type of Tax to be calculated.';
                 }
 
+
             }
         }
     }
