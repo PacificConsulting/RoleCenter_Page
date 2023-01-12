@@ -296,6 +296,15 @@ pageextension 50250 "Role Center for Page" extends "Order Processor Role Center"
                         RunObject = Page "Posted Import Invoices";
                         ToolTip = 'Specifies the type of Tax to be calculated.';
                     }
+                    action("Packing List List")
+                    {
+                        ApplicationArea = All;
+                        Caption = 'Packing List List';
+                        Image = EditList;
+                        //RunObject = page packing list list;                   
+
+                    }
+
                 }
             }
         }
