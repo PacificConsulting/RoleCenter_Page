@@ -301,7 +301,8 @@ pageextension 50250 "Role Center for Page" extends "Order Processor Role Center"
                         ApplicationArea = All;
                         Caption = 'Packing List List';
                         Image = EditList;
-                        //RunObject = page packing list list;                   
+                        //RunObject = page packing list list; 
+                        //                  
 
                     }
 
